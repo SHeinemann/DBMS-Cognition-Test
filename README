@@ -21,8 +21,9 @@ Athlete Screen:
 	- Time & Mistakes counting need to be implemented  
 	- Time taking should start when "Start" is pressed  
 	- Idea for mistake counting implementeation:  
-Use this.entities in game.js to create and pass a variable that can be accessed and modified in systems.js  
-	- When test is finished automatically write result to database (http request for this exists in backend but is unfinished! "user/writeTestResults")  
+		Use this.entities in game.js to create and pass a variable that can be accessed and modified in systems.js  
+	- When test is finished automatically write result to database (http request for this exists in backend but is unfinished! 
+	"user/writeTestResults")  
 	- Implement option for the athlete to access their own records  
   
 Error handling:  
