@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CognitionTestApp",
+    "slug": "CognitionTestApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CognitionTestApp"
+}
