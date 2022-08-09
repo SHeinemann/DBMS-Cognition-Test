@@ -1,6 +1,6 @@
 # DBMS-Cognition-Test
 
-ToDo:\\
+ToDo:\n
 Login authentication:
 	Backend:
 		- Implement one-time login authentication in spring security
